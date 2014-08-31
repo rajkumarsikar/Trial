@@ -8,7 +8,7 @@
 #while(int(guess)!=answer):
 #	if(int(guess)<answer):
 #		print("Answer is higher")
-#	else:
+#	else:::::::
 #		print("Answer is Lower")
 #	guess=input("Guess a number from 0 to %d:" %highest)
 #input("You're a winner face!!")
